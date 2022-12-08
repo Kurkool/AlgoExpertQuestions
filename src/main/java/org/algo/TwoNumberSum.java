@@ -2,7 +2,7 @@ package org.algo;
 
 import java.util.Arrays;
 
-public class Main {
+public class TwoNumberSum {
     public static int[] twoNumberSum(int[] array, int targetSum) {
         // Write your code here.
 
